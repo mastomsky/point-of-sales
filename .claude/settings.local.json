@@ -31,7 +31,8 @@
       "Bash(rm:*)",
       "Bash(timeout /t 30 /nobreak)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git branch:*)"
     ]
   }
 }
